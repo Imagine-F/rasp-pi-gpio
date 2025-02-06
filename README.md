@@ -20,7 +20,7 @@ The gpiozero library installed
 pip install gpiozero
 
 Clone the repository:
-git clone https://github.com/Imagine-F/raspberry-pi-helper.git
+git clone [https://github.com/Imagine-F/raspberry-pi-helper.git](https://github.com/Imagine-F/rasp-pi-gpio.git)
 cd raspberry-pi-helper
 Run any script from the repository using:
 python3 your_script.py
