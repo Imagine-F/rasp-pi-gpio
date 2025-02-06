@@ -25,8 +25,6 @@ cd raspberry-pi-helper
 Run any script from the repository using:
 python3 your_script.py
 
-Press CTRL+C to exit the script safely.
-
 # Contributing
 Feel free to contribute by adding new helper functions or improving existing ones. To contribute:
 Fork the repository
