@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-#############################################################################
-# Filename    : Motor.py
-# Description : Control Motor with L293D
-# Author      : www.freenove.com
-# modification: 2023/05/11
-########################################################################
 from gpiozero import DigitalOutputDevice,PWMOutputDevice
 import time
 from ADCDevice import *
