@@ -1,4 +1,4 @@
-# rasp-pi-gpio
+# rasp-pi-gpio-helper
 Raspberry PI - GPIO Projects
 
 Raspberry Pi Helper Functions
