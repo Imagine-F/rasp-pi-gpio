@@ -32,7 +32,8 @@ Create a new branch
 Submit a pull request
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is based on Raspberry PI by Freenove, licensed under CC BY-NC-SA 3.0.").
+Check license for further details.
 
 # Contact
 For any questions or suggestions, please open an issue in the repository.
